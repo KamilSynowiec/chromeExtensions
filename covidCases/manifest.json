@@ -1,0 +1,11 @@
+{
+   "name": "Covid 19 cases in the UK",
+   "version": "1.0.0",
+   "description": "latest covid date from the UK",
+   "manifest_version": 3,
+   "author": "Kamil Synowiec",
+   "action": {
+      "default_popup": "index.html",
+      "default_title": "Latest Covid Cases"
+   }
+}
